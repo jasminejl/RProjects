@@ -4,13 +4,13 @@ Welcome to my RProjects repository! This collection showcases projects I complet
 
 ## Project List
 
-1. # CSI 2300: Intro to Data Science - In-Class Exercise 03
+1. # CSI 2300: Intro to Data Science - In-Class Exercise 03 (Project 1)
 
 - Analyzed Colorado Covid-19 data using R for the "Introduction to Data Science" class.
 - Explored relationships between SARS-CoV-2 RNA copies and new COVID-19 cases.
 - Utilized data wrangling, descriptive statistics, and visualization techniques.
 
-[Link to Project Notebook](./CSI_2300_InClass_Exercise_03.R)
+[Link to Project Notebook](Project1.pdf)
 
 
 
