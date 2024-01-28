@@ -4,20 +4,15 @@ Welcome to my RProjects repository! This collection showcases projects I complet
 
 ## Project List
 
-1. **Project Name 1**
-   - Brief description of the project.
-   - Key techniques or analyses applied.
-   - Link to the project folder or notebook.
+1. # CSI 2300: Intro to Data Science - In-Class Exercise 03
 
-2. **Project Name 2**
-   - Brief description of the project.
-   - Key techniques or analyses applied.
-   - Link to the project folder or notebook.
+- Analyzed Colorado Covid-19 data using R for the "Introduction to Data Science" class.
+- Explored relationships between SARS-CoV-2 RNA copies and new COVID-19 cases.
+- Utilized data wrangling, descriptive statistics, and visualization techniques.
 
-3. **Project Name 3**
-   - Brief description of the project.
-   - Key techniques or analyses applied.
-   - Link to the project folder or notebook.
+[Link to Project Notebook](./CSI_2300_InClass_Exercise_03.R)
+
+
 
 ## How to Navigate
 
